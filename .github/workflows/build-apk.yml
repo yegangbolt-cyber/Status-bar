@@ -30,7 +30,7 @@ jobs:
           gradle-version: 8.10.2
 
       - name: Unzip project
-        run: unzip FixedStatusBarOverlay_MobileCloudBuild.zip
+        run: unzip FixedStatusBarOverlay_MobileCloudBuild_v2.zip
 
       - name: Build Debug APK
         run: |
